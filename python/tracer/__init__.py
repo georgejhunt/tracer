@@ -208,3 +208,4 @@ class Tracer(object):
         result = (r1 << 8) | r2
 
         return result
+#vim: tab 4 expandtab
